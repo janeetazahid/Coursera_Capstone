@@ -11,5 +11,6 @@ The final part of the project is is under Segmenting and Clustering Neighborhood
 
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/366701a2-fdc2-4544-8636-0338bb03edc4/view?access_token=66cecf69f95d07d42160695cc1d9c34c44232859bb964dec7b3c2fe34ab072b2
 
-Languages:    Python, HTML
-Applications: Jupyter Notebooks
+**Languages:**    Python, HTML
+
+**Applications:** Jupyter Notebooks
