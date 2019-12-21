@@ -7,5 +7,7 @@ Then data from the Foursquare API was used to find the top 10 venues from each n
 This data was used to cluster the neighborhoods, using the k-means algorithm. 
 Finally, a visualization of the clusters was produced, using the Folium library in Python.
 
+The final part of the project is 
+
 Languages:    Python, HTML
 Applications: Jupyter Notebooks
