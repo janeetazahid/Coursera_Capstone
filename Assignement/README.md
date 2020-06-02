@@ -1,4 +1,4 @@
-This assignment was completed to familiarize yourself with the Foursquare API.
+This assignment was completed in order to familiarize yourself with the Foursquare API.
 
 The purpose of this assignment was to scrape a Wikipedia webpage, to obtain the neighborhoods in Toronto. 
 After this, the data from the webpage was stored in a Pandas data frame. 
